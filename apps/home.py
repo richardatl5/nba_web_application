@@ -12,6 +12,6 @@ def app():
     st.write("""
      **Introduction**
 
-     The NBA statisctics web page was developed by web-scraping the nba basketball reference website (data professor)
+     The NBA statisctics web page was developed by web-scraping the nba basketball reference website (data prof)
 
     """)
